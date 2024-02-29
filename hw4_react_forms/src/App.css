@@ -1,0 +1,15 @@
+.App .right-container{
+  margin-left: 1.7rem;
+  width: 50%;
+}
+.App{
+  display: flex;
+  justify-content: center;
+  margin-left: 7rem;
+  align-items: start;
+  
+  
+}
+.App .left-container{
+  margin-right: 10rem;
+}

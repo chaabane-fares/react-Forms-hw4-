@@ -1,0 +1,17 @@
+.head img{
+    width: 3rem;
+    height: 3rem;
+    
+}
+.head h3{
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-align: left;
+    color: #243048;
+}
+.head{
+    display: flex;
+    align-items: center;
+    width: 8rem;
+    
+}
